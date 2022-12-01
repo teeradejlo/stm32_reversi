@@ -6,6 +6,6 @@ Features:
 - read input from PS2 keyboard using interrupt
 - control TFTLCD through FSMC
 
-<img src="https://github.com/teeradejlo/stm32_reversi/blob/main/START.png?raw=true" align="left" height="120">
-<img src="https://github.com/teeradejlo/stm32_reversi/blob/main/GAMEPLAY.png?raw=true" align="left" height="120">
-<img src="https://github.com/teeradejlo/stm32_reversi/blob/main/Hardware.png?raw=true" align="left" height="120">
+<img src="https://github.com/teeradejlo/stm32_reversi/blob/main/START.png?raw=true" align="left" height="240">
+<img src="https://github.com/teeradejlo/stm32_reversi/blob/main/GAMEPLAY.png?raw=true" align="left" height="240">
+<img src="https://github.com/teeradejlo/stm32_reversi/blob/main/Hardware.png?raw=true" align="left" height="240">
